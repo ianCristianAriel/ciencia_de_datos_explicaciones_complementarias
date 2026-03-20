@@ -1,25 +1,3 @@
-""" 
------------------------------------------------------------------------
-
-
-Autor: Yané, Ian Cristian Ariel  
-Afiliación: Diplomatura de Ciencia de Datos – ICARO  
-
-Material original del repositorio:  
-ciencia_de_datos_explicaciones_complementarias  
-
-Licencia: CC BY-NC 4.0 (ver detalle en el repositorio)  
-
-Uso permitido con atribución, referencia a licencia y mención de LLMs  
-Uso comercial no permitido  
-
-Desarrollado con apoyo de LLMs (ChatGPT y Gemini).  
-
-© Yané, Ian Cristian Ariel
-
------------------------------------------------------------------------
-"""
-
 def regression_report(y_true, y_pred, n_features=None):
     """
     Prints a regression metrics summary report.
@@ -134,6 +112,7 @@ def regression_report(y_true, y_pred, n_features=None):
 -----------------------------------------------------------------------
 
 © Yané, Ian Cristian Ariel — CC BY-NC 4.0  
-Uso no comercial. Requiere atribución y referencia a licencia. 
+Material de autoría original. Uso no comercial. Requiere atribución.  
+Ver licencia completa en el repositorio.
 
 """
